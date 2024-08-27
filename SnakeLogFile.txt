@@ -1,0 +1,91 @@
+0 cmd:right len: 3 - d(r,c,t): 0 ,1 ,0
+1 cmd:right len: 3 - d(r,c,t): 0 ,1 ,160
+2 cmd:right len: 3 - d(r,c,t): 0 ,1 ,168
+3 cmd:right len: 3 - d(r,c,t): 0 ,1 ,191
+4 cmd:right len: 3 - d(r,c,t): 0 ,1 ,510
+5 cmd:right len: 3 - d(r,c,t): 0 ,1 ,75
+6 cmd:right len: 3 - d(r,c,t): 0 ,1 ,79
+7 cmd:right len: 3 - d(r,c,t): 0 ,1 ,83
+8 cmd:right len: 3 - d(r,c,t): 0 ,1 ,88
+9 cmd:right len: 3 - d(r,c,t): 0 ,1 ,86
+10 cmd:right len: 3 - d(r,c,t): 0 ,1 ,82
+11 cmd:   up len: 3 - d(r,c,t): -1 ,0 ,90
+12 cmd:   up len: 3 - d(r,c,t): -1 ,0 ,189
+13 cmd:right len: 3 - d(r,c,t): 0 ,1 ,452
+14 cmd:right len: 3 - d(r,c,t): 0 ,1 ,192
+15 cmd:right len: 3 - d(r,c,t): 0 ,1 ,180
+16 cmd:right len: 3 - d(r,c,t): 0 ,1 ,149
+17 cmd:right len: 3 - d(r,c,t): 0 ,1 ,205
+18 cmd:right len: 3 - d(r,c,t): 0 ,1 ,167
+19 cmd:right len: 3 - d(r,c,t): 0 ,1 ,169
+20 cmd:right len: 3 - d(r,c,t): 0 ,1 ,164
+21 cmd:right len: 3 - d(r,c,t): 0 ,1 ,168
+22 cmd:right len: 3 - d(r,c,t): 0 ,1 ,212
+23 cmd:   up len: 3 - d(r,c,t): -1 ,0 ,382
+24 cmd:   up len: 3 - d(r,c,t): -1 ,0 ,171
+25 cmd: left len: 4 - d(r,c,t): 0 ,-1 ,366
+26 cmd: left len: 5 - d(r,c,t): 0 ,-1 ,192
+27 cmd: left len: 6 - d(r,c,t): 0 ,-1 ,496
+28 cmd: left len: 7 - d(r,c,t): 0 ,-1 ,84
+29 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,85
+30 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,84
+31 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,83
+32 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,89
+33 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,81
+34 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,89
+35 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,77
+36 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,85
+37 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,82
+38 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,83
+39 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,85
+40 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,85
+41 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,83
+42 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,84
+43 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,84
+44 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,82
+45 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,89
+46 cmd: left len: 8 - d(r,c,t): 0 ,-1 ,79
+47 cmd: down len: 8 - d(r,c,t): 1 ,0 ,75
+48 cmd: down len: 8 - d(r,c,t): 1 ,0 ,187
+49 cmd: down len: 8 - d(r,c,t): 1 ,0 ,187
+50 cmd: down len: 8 - d(r,c,t): 1 ,0 ,166
+51 cmd: down len: 8 - d(r,c,t): 1 ,0 ,168
+52 cmd: down len: 8 - d(r,c,t): 1 ,0 ,185
+53 cmd: down len: 8 - d(r,c,t): 1 ,0 ,167
+54 cmd: down len: 8 - d(r,c,t): 1 ,0 ,172
+55 cmd: down len: 8 - d(r,c,t): 1 ,0 ,184
+56 cmd: down len: 8 - d(r,c,t): 1 ,0 ,170
+57 cmd: down len: 8 - d(r,c,t): 1 ,0 ,166
+58 cmd: down len: 8 - d(r,c,t): 1 ,0 ,188
+59 cmd: down len: 8 - d(r,c,t): 1 ,0 ,167
+60 cmd: down len: 8 - d(r,c,t): 1 ,0 ,270
+61 cmd:right len: 8 - d(r,c,t): 0 ,1 ,520
+62 cmd:right len: 8 - d(r,c,t): 0 ,1 ,192
+63 cmd:right len: 9 - d(r,c,t): 0 ,1 ,172
+64 cmd:right len: 10 - d(r,c,t): 0 ,1 ,147
+65 cmd:right len: 11 - d(r,c,t): 0 ,1 ,499
+66 cmd:right len: 12 - d(r,c,t): 0 ,1 ,83
+67 cmd:right len: 13 - d(r,c,t): 0 ,1 ,84
+68 cmd:right len: 14 - d(r,c,t): 0 ,1 ,86
+69 cmd:right len: 15 - d(r,c,t): 0 ,1 ,83
+70 cmd:right len: 15 - d(r,c,t): 0 ,1 ,83
+71 cmd:right len: 15 - d(r,c,t): 0 ,1 ,84
+72 cmd:right len: 15 - d(r,c,t): 0 ,1 ,83
+73 cmd:right len: 15 - d(r,c,t): 0 ,1 ,84
+74 cmd:right len: 15 - d(r,c,t): 0 ,1 ,83
+75 cmd:   up len: 15 - d(r,c,t): -1 ,0 ,184
+76 cmd:   up len: 15 - d(r,c,t): -1 ,0 ,207
+77 cmd:   up len: 15 - d(r,c,t): -1 ,0 ,170
+78 cmd:   up len: 15 - d(r,c,t): -1 ,0 ,184
+79 cmd:   up len: 15 - d(r,c,t): -1 ,0 ,145
+80 cmd:   up len: 15 - d(r,c,t): -1 ,0 ,191
+81 cmd:   up len: 16 - d(r,c,t): -1 ,0 ,309
+82 cmd:   up len: 17 - d(r,c,t): -1 ,0 ,187
+83 cmd:   up len: 18 - d(r,c,t): -1 ,0 ,167
+84 cmd:   up len: 19 - d(r,c,t): -1 ,0 ,164
+85 cmd:   up len: 20 - d(r,c,t): -1 ,0 ,191
+86 cmd:   up len: 21 - d(r,c,t): -1 ,0 ,166
+87 cmd:   up len: 22 - d(r,c,t): -1 ,0 ,189
+88 cmd:   up len: 23 - d(r,c,t): -1 ,0 ,169
+89 cmd:   up len: 23 - d(r,c,t): -1 ,0 ,167
+90 cmd:   up len: 23 - d(r,c,t): -1 ,0 ,185
